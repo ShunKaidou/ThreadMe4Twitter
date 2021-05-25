@@ -25,9 +25,10 @@ We have referenced google , twitter API official documentations from different s
 [Embed video of project demo]
 
 ## Libraries used
-Tweepy - 3.10
-requests - 2.25.1 (for accessing twitter API directly)
-
+<ul>
+<li>Tweepy - 3.10</li>
+<li>requests - 2.25.1 (for accessing twitter API directly)</li>
+</ul>
 ## How to configure
 <ul>
 <li>Clone github repository</li>
