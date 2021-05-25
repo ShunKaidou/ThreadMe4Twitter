@@ -35,11 +35,11 @@ We have referenced google , twitter API official documentations from different s
 <ul>
  <li>Get your API keys from developer.twitter </li>
 <li>Clone github repository</li>
-<li>create virtualenv and activate it</li>
-<li>installing required libraries using pip</li>
+<li>Create virtualenv and activate it</li>
+<li>Installing required libraries using pip</li>
 </ul>
 
 ## How to Run
- <ul> <li>insert your API access keys in config.json</li>
+ <ul> <li>Insert your API access keys in config.json</li>
   <li>Simply run the twitter_tagging_bot.py </li></ul>
    
