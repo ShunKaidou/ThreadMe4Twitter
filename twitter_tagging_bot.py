@@ -1,13 +1,17 @@
+
 import base64
 import json
 import os
 import time
 
+#install both requests and tweepy libraries using pip
 import requests
 import tweepy
 
 CACHE_FILE_NAME = ".twitter_bot.json"
 CONFIG_FILE = 'config.json'
+#add your access keys into config.json
+
 
 
 def load_config(config_file):
