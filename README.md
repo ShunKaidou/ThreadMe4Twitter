@@ -32,9 +32,9 @@ requests - 2.25.1 (for accessing twitter API directly)
 <ul>
 <li>Clone github repository</li>
 <li>create virtualenv and activate it</li>
-<li>installing required files using pip</li>
+<li>installing required libraries using pip</li>
 </ul>
 ## How to Run
 #Instructions for running
  Simply run the twitter_tagging_bot.py 
- You may need to insert your API access keys in config.json
+ You may need to insert your API access keys in config.json for authentication
