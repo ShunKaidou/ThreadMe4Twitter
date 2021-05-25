@@ -15,7 +15,7 @@ BFH/recdnAxglgpWDXQon/2021
 
 ## How it Works ?
 <ul>
- <li>The bot is hosted on <a href="www.pythonanywhere.com">Pythonanywhere</a></li>
+ <li>The bot is hosted on <a href="https://www.pythonanywhere.com/">Pythonanywhere</a></li>
 <li>The bot authenticates with Twitter API using the developer keys</li>
 <li>it checks for mentions every 5 minutes</li>
 <li>if it finds, it executes a function to get data on both the user and the thread it is tagged in</li>
