@@ -1,6 +1,6 @@
 ![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
 # Threadme4T
-A python bot that uses twitter API to GET mentioned tweets and send them as Direct messages to the one who tagged the bot. This project uses the tweepy library,also since tweepy doesnt support the Twitter API V2 we sometimes used the Twitter API directly without any Libraries. This isnt working as exactly as we needed(replies are also included along with threads, we coudnt remove it 😢) but everything else looks fine...
+A python bot that uses twitter API to GET mentioned tweets and send them as Direct messages to the one who tagged the bot. This project uses the tweepy library, also since tweepy doesnt support the Twitter API V2 we sometimes used the Twitter API directly without any Libraries. This isnt working as exactly as we needed(replies are also included along with threads, we coudnt remove it 😢) but everything else looks fine...
 
 ## Team members
 1. <a href="https://github.com/ShunKaido">Mohammed Nihad</a> 
