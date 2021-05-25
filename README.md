@@ -29,9 +29,12 @@ Tweepy - 3.10
 requests - 2.25.1 (for accessing twitter API directly)
 
 ## How to configure
-Clone github repository 
-create virtualenv and activate 
-install required files
+<ul>
+<li>Clone github repository</li>
+<li>create virtualenv and activate </li>
+<li>installing required files</li>
+ <li>installing required files</li>
+</ul>
 ## How to Run
 Instructions for running
  
