@@ -19,15 +19,17 @@ The bot authenticates with Twitter API using the developer keys
 it checks for mentions every 5 minutes 
 if it finds it executes a function to get data on both the user and the thread it is tagged in
 then the thread data is sent to the user by Direct Message
- 
+
 [Embed video of project demo]
 
 ## Libraries used
 Tweepy - 3.10
-requests - 2.25.1
+requests - 2.25.1 (for accessing twitter API directly)
 
 ## How to configure
-
+Clone github repository 
+create virtualenv and activate 
+install required files
 ## How to Run
 Instructions for running
  
