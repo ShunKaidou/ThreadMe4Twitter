@@ -19,7 +19,7 @@ BFH/recdnAxglgpWDXQon/2021
 <li>it checks for mentions every 5 minutes</li>
 <li>if it finds it executes a function to get data on both the user and the thread it is tagged in</li>
 <li>then the thread data is sent to the user by Direct Message</li>
-</ul>Yup that's the basic idea of it ,looking deeply there are things like creating a log and saving already processed data into it so the program wont repeatly resend tweets into already sent users , accessing the Secret Keys stored in a file etc, working with json  a bit, basic API Authentication etc... etc...
+</ul>Yup that's the basic idea of it ,looking deeply there are things like creating a log and saving already processed data into it so the program wont repeatly resend tweets into already sent users , accessing the Secret Keys stored in a file etc,functions to send direct message to users, working with json  a bit, basic API Authentication etc... etc... we coudnt get the end result we wanted , the threads along with the replies are send and if u tag the bot too deep into a thread , you might not get the main thread.  
 [Embed video of project demo]
 
 ## Libraries used
