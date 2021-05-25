@@ -14,12 +14,12 @@ BFH/recdnAxglgpWDXQon/2021
 [link to video]
 
 ## How it Works ?
-
-The bot authenticates with Twitter API using the developer keys
-it checks for mentions every 5 minutes 
-if it finds it executes a function to get data on both the user and the thread it is tagged in
-then the thread data is sent to the user by Direct Message
-
+<ul>
+ <li>The bot authenticates with Twitter API using the developer keys</li>
+<li>it checks for mentions every 5 minutes</li>
+<li>if it finds it executes a function to get data on both the user and the thread it is tagged in</li>
+<li>then the thread data is sent to the user by Direct Message</li>
+</ul>
 [Embed video of project demo]
 
 ## Libraries used
