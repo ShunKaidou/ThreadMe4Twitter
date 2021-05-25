@@ -29,12 +29,14 @@ We have referenced google , twitter API official documentations from different s
 <li>Tweepy - 3.10</li>
 <li>requests - 2.25.1 (for accessing twitter API directly)</li>
 </ul>
+
 ## How to configure
 <ul>
 <li>Clone github repository</li>
 <li>create virtualenv and activate it</li>
 <li>installing required libraries using pip</li>
 </ul>
+
 ## How to Run
  <li>Simply run the twitter_tagging_bot.py </li>
  -You may need to insert your API access keys in config.json for authentication
