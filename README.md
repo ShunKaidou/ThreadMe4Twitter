@@ -39,5 +39,5 @@ We have referenced google , twitter API official documentations from different s
 </ul>
 
 ## How to Run
- <ul><li>Simply run the twitter_tagging_bot.py </li></ul>
-   -You may need to insert your API access keys in config.json for Twitter API authentication
+ <ul><li>Simply run the twitter_tagging_bot.py </li>
+   <li>insert your API access keys in config.json</li></ul>
