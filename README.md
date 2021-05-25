@@ -2,17 +2,17 @@
 # Project Name
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. Name [https://github.com/ilyazjasim]
-2. Name [Embed perosnal github URL]
+1. Mohammed illias Jasim V [https://github.com/ilyazjasim]
+2. Abdul Nihad K [https://github.com/Nihadk117]
 ## Team Id
-Team id here
+BFH/recdnAxglgpWDXQon/2021
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
 1. Explaining the working of project
 2. Embed video of project demo
 ## Libraries used
-Library Name - Version
+Tweepy - 3.10
 ## How to configure
 Instructions for setting up project
 ## How to Run
