@@ -11,7 +11,7 @@ A python bot that uses twitter API to GET mentioned tweets and send them as Dire
 BFH/recdnAxglgpWDXQon/2021
 
 ## Link to product walkthrough
-[link to video coming soon]
+<a href="https://drive.google.com/file/d/1eRlSoTpMNATVI1M24aSZvIhH2i97YeCW/view?usp=sharing">Click here</a>
 
 ## How it Works ?
 <ul>
@@ -22,8 +22,6 @@ BFH/recdnAxglgpWDXQon/2021
 <li>then the thread data is sent to the user by Direct Message</li>
 </ul>that's the basic idea of it, looking deeply there are things like creating a log and saving already processed data into it so the program wont repeatly resend tweets into already sent users everytime the program restarts, accessing the Secret Keys stored in a file etc, functions to send direct message to users, basic API Authentication etc... etc... <br>We also access the Twitter API without using the tweepy library since tweepy's current version doesnt support twitter v2 API, the v2 version of twitter API was needed to get the 'conversation_id' of tweets so we can access threads in twitter more easily.<br> we coudnt get the end result we wanted, the replies are also send along with the threads. We advice not to test this bot on large threads since the bot is freely hosted <br>About hosting : its hosted on Pythonanywhere under the free user plan and the bot cannot run for more than a few hours under this plan thus we need to manually start the bot every few hours for it to work continuously<br>To use the bot simply tag @Threadme4T on any thread<br>
 We have referenced google , twitter API official documentations from different sites , Tweepy official documentation and all other good sites<br>
-
-[Embed video of project demo goes here]
 
 ## Libraries used
 <ul>
