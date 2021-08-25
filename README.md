@@ -11,7 +11,7 @@ A python bot that uses twitter API to GET mentioned tweets and send them as Dire
 BFH/recdnAxglgpWDXQon/2021
 
 ## Link to product walkthrough
-<a href="#"><!-- href="https://drive.google.com/file/d/1eRlSoTpMNATVI1M24aSZvIhH2i97YeCW/view?usp=sharing"-->Click here</a>
+<a href="#"><!-- href="https://drive.google.com/file/d/1eRlSoTpMNATVI1M24aSZvIhH2i97YeCW/view?usp=sharing"-->Click here (Removed)</a>
 
 ## How it Works ?
 <ul>
