@@ -8,8 +8,8 @@ import time
 import requests
 import tweepy
 
-CACHE_FILE_NAME = ".twitter_bot.json"
-CONFIG_FILE = 'config.json'
+CACHE_FILE_NAME = ".twitter_bot_reaper.json"
+CONFIG_FILE = 'config_reaper.json'
 #add your access keys into config.json
 
 
@@ -136,6 +136,5 @@ def main():
 
         time.sleep(10)
         
-
 if __name__ == '__main__':
     main()
